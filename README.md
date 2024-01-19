@@ -8,7 +8,7 @@ I’m interested in learning all about web development, software development, an
 You can reach out to me through email (bregiang@gmail.com)! I check it regularly. 
 
 ![image](https://github.com/meilynbear/meilynbear/assets/154385769/86298dc0-ae79-4882-aa06-5656d09137ef)
-[LinkedIn](www.linkedin.com/in/breannagiang)
+[LinkedIn](https://www.linkedin.com/in/breannagiang)
 
 
 Skills: Python / Java / EclipseIDE / HTML
